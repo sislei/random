@@ -5,3 +5,4 @@ if (numero <=0.5){
 else{
   console.log('\n' + numero+ 'MAYOR que 0.5\n');
 }
+console.log('\n' + numero+ str+ '\n');
